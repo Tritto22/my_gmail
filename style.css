@@ -1,0 +1,95 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body{
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+  background-size: cover;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+header{
+  margin: 10px 0px 10px;
+}
+
+img{
+  height: 100px;
+  width: auto;
+}
+
+h1{
+  font-size: 250%;
+  display: inline-block;
+  font-family: 'Roboto Slab', serif;
+}
+
+h1,footer,.testo_menu{
+  color: white;
+}
+
+hr{
+  background-color: lightgrey;
+}
+
+nav{
+  margin: 10px 0px 0px;
+}
+
+.testo_menu{
+  font-stretch: condensed;
+  font-family: 'Roboto Slab', serif;
+  font-size: 170%;
+  line-height: 150%;
+}
+
+#trenta{
+  background-color: orange;
+  border-radius: 50%;
+  padding: 0px 3px;
+}
+
+main{
+  margin: 9px 0px 9px;
+}
+
+.casella{
+  margin-left: 2%;
+}
+
+.subject{
+  width: 34%;
+  display: inline-block;
+}
+
+.body{
+  color: grey;
+  display: inline-block;
+  width: 60%;
+
+}
+
+main div{
+  margin-bottom: 3px;
+}
+.rowgrey{
+  background-color: lightgrey;
+}
+
+.rowwhite{
+  background-color: white;
+}
+
+footer{
+  margin: 10px 0px 10px;
+  text-align: center;
+}
+
+#namefooter{
+  font-size: 150%;
+}
+
+#surnamefooter{
+  font-style: italic;
+}
